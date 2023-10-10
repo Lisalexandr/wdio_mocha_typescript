@@ -1,0 +1,1 @@
+export const testValue: string = "test_test_test"
